@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../downloads/prework-study-guide/prework-study-guide/assets"
+		},
+		{
+			"name": "prework-study-guide",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prework-study-guide",
+		"liveServer.settings.port": 5501
+	}
+}
